@@ -1,0 +1,11 @@
+print("Hello World");
+
+Name = input("Enter Your Name :");
+Address = input("Enter Your Address :");
+Age = int(input("Enter Your Age :"));
+Salary = float(input("Enter Your Salary :"))
+
+print(Name);
+print(Address);
+print(Age);
+print(Salary);
